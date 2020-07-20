@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=itzcy&show_icons=true&title_color=fefefe&icon_color=ffc83d&text_color=9e9e9e&bg_color=151515)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
