@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=itzcy&show_icons=true&title_color=fefefe&icon_color=ffc83d&text_color=9e9e9e&bg_color=151515)
 
+### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 PHP         1 hr 54 mins        ███████████████████░░░░░░   78.89 % 
