@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![ReadMe Card](https://github-readme-stats.vercel.app/api?username=itzcy&show_icons=true&title_color=fefefe&icon_color=ffc83d&text_color=9e9e9e&bg_color=151515)
+![ReadMe Card](https://github-readme-stats.vercel.app/api?username=itzcy&show_icons=true&title_color=2d3198&icon_color=797cb8&text_color=24292e&bg_color=f6f8fa)
 
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
