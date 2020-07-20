@@ -17,4 +17,11 @@ Here are some ideas to get you started:
 ![ReadMe Card](https://github-readme-stats.vercel.app/api?username=itzcy&show_icons=true&title_color=fefefe&icon_color=ffc83d&text_color=9e9e9e&bg_color=151515)
 
 <!--START_SECTION:waka-->
+```text
+PHP         1 hr 54 mins        ███████████████████░░░░░░   78.89 % 
+YAML        12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Other       7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+JSON        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+Git Config  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
+```
 <!--END_SECTION:waka-->
