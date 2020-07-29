@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 20 July, 2020 - 27 July, 2020
+Week: 21 July, 2020 - 28 July, 2020
 
-PHP     12 hrs 4 mins   █████████████████████████   99.67 % 
-Other   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+PHP     12 hrs 30 mins  ████████████████████████░   99.46 % 
+Other   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 YAML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 <!--END_SECTION:waka-->
