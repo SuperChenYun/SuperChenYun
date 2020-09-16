@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 07 September, 2020 - 14 September, 2020
+Week: 08 September, 2020 - 15 September, 2020
 
-PHP          4 hrs 57 mins   ███████████░░░░░░░░░░░░░░   44.09 % 
-HTML         3 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.19 % 
-Vue.js       1 hr 45 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-Other        26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+PHP          4 hrs 27 mins   ██████████▒░░░░░░░░░░░░░░   41.05 % 
+HTML         3 hrs 30 mins   ████████░░░░░░░░░░░░░░░░░   32.21 % 
+Vue.js       2 hrs 3 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.89 % 
+JavaScript   40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
+Other        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 ```
 <!--END_SECTION:waka-->
