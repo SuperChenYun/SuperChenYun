@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 25 September, 2020 - 02 October, 2020
+Week: 26 September, 2020 - 03 October, 2020
 
 PHP          28 mins         ████████████████▓░░░░░░░░   66.52 % 
 HTML         8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.75 % 
