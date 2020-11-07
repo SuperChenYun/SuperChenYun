@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 30 October, 2020 - 06 November, 2020
+
+
 ```
 <!--END_SECTION:waka-->
