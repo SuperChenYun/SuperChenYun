@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 18 November, 2020 - 25 November, 2020
+Week: 19 November, 2020 - 26 November, 2020
 
 JSON   8 mins          ████████████████████▓░░░░   82.58 % 
 YAML   1 min           ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 % 
