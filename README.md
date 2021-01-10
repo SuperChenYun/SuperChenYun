@@ -19,11 +19,8 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 01 January, 2021 - 08 January, 2021
+Week: 02 January, 2021 - 09 January, 2021
 
-HTML         11 mins         ███████████████▒░░░░░░░░░   61.30 % 
-Text         2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.30 % 
-PHP          2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.08 % 
-JavaScript   1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Text   2 mins          ██████████████████████▒░░   89.48 % 
 ```
 <!--END_SECTION:waka-->
