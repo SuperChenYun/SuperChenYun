@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 18 January, 2021 - 25 January, 2021
+Week: 19 January, 2021 - 26 January, 2021
 
 PHP        12 hrs 29 mins  ███████████████████▓░░░░░   79.29 % 
 YAML       1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
