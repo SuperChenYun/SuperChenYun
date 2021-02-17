@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 08 February, 2021 - 15 February, 2021
+Week: 09 February, 2021 - 16 February, 2021
 
 HTML         2 hrs 55 mins   █████████▓░░░░░░░░░░░░░░░   39.19 % 
 JavaScript   2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   29.41 % 
