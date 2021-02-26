@@ -19,11 +19,9 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 17 February, 2021 - 24 February, 2021
+Week: 18 February, 2021 - 25 February, 2021
 
-PHP          28 mins         ██████████████░░░░░░░░░░░   56.64 % 
-Markdown     12 mins         ██████▒░░░░░░░░░░░░░░░░░░   24.85 % 
-HTML         5 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
-Git Config   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+HTML   5 mins          ████████████████▓░░░░░░░░   66.67 % 
+PHP    2 mins          ████████▒░░░░░░░░░░░░░░░░   33.33 % 
 ```
 <!--END_SECTION:waka-->
