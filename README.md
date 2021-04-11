@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 April, 2021 - 09 April, 2021
+Week: 03 April, 2021 - 10 April, 2021
 
 PHP          7 hrs 53 mins   █████████████████▓░░░░░░░   70.77 % 
 HTML         2 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.27 % 
