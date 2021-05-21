@@ -19,11 +19,12 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 12 May, 2021 - 19 May, 2021
+Week: 13 May, 2021 - 20 May, 2021
 
-PHP          7 hrs 1 min     █████████████▒░░░░░░░░░░░   53.61 % 
-HTML         4 hrs 54 mins   █████████▒░░░░░░░░░░░░░░░   37.50 % 
-Other        47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-JavaScript   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+PHP          5 hrs 43 mins   ██████████▒░░░░░░░░░░░░░░   40.93 % 
+HTML         3 hrs 37 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.94 % 
+YAML         2 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
+Other        1 hr 18 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
+JavaScript   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
 ```
 <!--END_SECTION:waka-->
