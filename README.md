@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 10 October, 2021 - 16 October, 2021
+Week: 11 October, 2021 - 17 October, 2021
 
 Vue.js       8 hrs 16 mins   ██████████░░░░░░░░░░░░░░░   40.54 % 
 PHP          6 hrs 39 mins   ████████░░░░░░░░░░░░░░░░░   32.60 % 
