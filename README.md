@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
 JSON       2 mins          ████████░░░░░░░░░░░░░░░░░   32.46 % 
 INI        2 mins          ████████░░░░░░░░░░░░░░░░░   31.84 % 
