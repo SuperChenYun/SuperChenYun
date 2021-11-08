@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
+Week: 01 November, 2021 - 07 November, 2021
 
-HTML         28 mins         █████████████████▓░░░░░░░   71.02 % 
-JavaScript   11 mins         ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+HTML         28 mins         █████████████████▒░░░░░░░   69.10 % 
+JavaScript   12 mins         ███████▓░░░░░░░░░░░░░░░░░   30.50 % 
 ```
 <!--END_SECTION:waka-->
