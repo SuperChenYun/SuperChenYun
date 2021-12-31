@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 23 December, 2021 - 29 December, 2021
+Week: 24 December, 2021 - 30 December, 2021
 
-HTML         5 hrs 10 mins   ████████████▓░░░░░░░░░░░░   51.22 % 
-PHP          4 hrs 44 mins   ███████████▓░░░░░░░░░░░░░   46.87 % 
-CSS          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+PHP          3 hrs 28 mins   ██████████████▒░░░░░░░░░░   57.06 % 
+HTML         2 hrs 27 mins   ██████████░░░░░░░░░░░░░░░   40.38 % 
+CSS          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
