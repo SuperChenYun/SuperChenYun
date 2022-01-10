@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 02 January, 2022 - 08 January, 2022
+Week: 03 January, 2022 - 09 January, 2022
 
 PHP    2 hrs 59 mins   █████████████████████▒░░░   85.21 % 
 HTML   25 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
