@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Week: 11 January, 2022 - 17 January, 2022
+Week: 12 January, 2022 - 18 January, 2022
 
-PHP         3 hrs 11 mins   ███████████████████████░░   92.43 % 
-JSON        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
-HTML        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
-Bash        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-.env file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+PHP         4 hrs 15 mins   ███████████████████████▒░   93.60 % 
+JSON        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+HTML        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Bash        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+.env file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
 ```
 <!--END_SECTION:waka-->
