@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2022 - To: 06 April 2022
+From: 31 March 2022 - To: 07 April 2022
 
-PHP          4 hrs           ███████████████░░░░░░░░░░   60.19 %
-HTML         2 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.97 %
-VBScript     14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
-JavaScript   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+PHP          4 hrs 36 mins   ███████████████░░░░░░░░░░   59.55 %
+HTML         2 hrs 31 mins   ████████░░░░░░░░░░░░░░░░░   32.61 %
+VBScript     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+JavaScript   11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+JSON         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
 ```
 
 <!--END_SECTION:waka-->
