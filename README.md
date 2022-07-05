@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 June 2022 - To: 03 July 2022
+From: 27 June 2022 - To: 04 July 2022
 
-PHP              1 hr 45 mins    ██████████████▓░░░░░░░░░░   58.69 %
-JSON             24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
-Markdown         18 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-Other            10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+PHP              2 hrs 30 mins   ████████████████▓░░░░░░░░   66.60 %
+JSON             25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 %
+Markdown         18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Other            10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
 ```
 
 <!--END_SECTION:waka-->
