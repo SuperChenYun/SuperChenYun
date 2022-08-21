@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 August 2022 - To: 19 August 2022
+From: 13 August 2022 - To: 20 August 2022
 
 PHP          9 hrs 11 mins   ███████████████████▓░░░░░   78.40 %
 HTML         1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
