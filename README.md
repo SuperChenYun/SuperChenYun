@@ -20,12 +20,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 August 2022 - To: 01 September 2022
+From: 28 August 2022 - To: 04 September 2022
 
-PHP              1 hr 20 mins    ████████████▓░░░░░░░░░░░░   50.25 %
-HTML             44 mins         ███████░░░░░░░░░░░░░░░░░░   28.00 %
-Git Config       12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Other            9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+PHP          1 hr 5 mins     ████████████████░░░░░░░░░   64.61 %
+HTML         34 mins         ████████▓░░░░░░░░░░░░░░░░   34.26 %
+Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
