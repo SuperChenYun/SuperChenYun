@@ -20,13 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 September 2022 - To: 13 September 2022
+From: 07 September 2022 - To: 14 September 2022
 
-PHP          1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   40.30 %
-HTML         1 hr 7 mins     █████████▓░░░░░░░░░░░░░░░   39.17 %
-CSS          24 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.33 %
-JavaScript   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Log          4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+PHP          2 hrs 4 mins    █████████▒░░░░░░░░░░░░░░░   37.32 %
+HTML         2 hrs 2 mins    █████████▒░░░░░░░░░░░░░░░   36.85 %
+CSS          1 hr 7 mins     █████░░░░░░░░░░░░░░░░░░░░   20.20 %
+Log          8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+Bash         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
 ```
 
 <!--END_SECTION:waka-->
