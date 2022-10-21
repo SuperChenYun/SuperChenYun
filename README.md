@@ -20,10 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2022 - To: 19 October 2022
+From: 13 October 2022 - To: 20 October 2022
 
-HTML   9 mins          █████████████████████████   99.91 %
-PHP    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+PHP          1 hr            ███████████████▓░░░░░░░░░   63.25 %
+HTML         18 mins         █████░░░░░░░░░░░░░░░░░░░░   19.63 %
+JSON         11 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 %
+.env file    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Log          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
