@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 October 2022 - To: 07 November 2022
+From: 01 November 2022 - To: 08 November 2022
 
-Other   0 secs          █████████████████████████   100.00 %
+PHP    12 mins         █████████████████▒░░░░░░░   69.53 %
+JSON   5 mins          ███████▒░░░░░░░░░░░░░░░░░   29.67 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+XML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
