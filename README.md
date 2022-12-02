@@ -20,7 +20,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 24 November 2022 - To: 01 December 2022
+
+PHP    15 mins         ███████████████████░░░░░░   76.00 %
+Bash   4 mins          ██████░░░░░░░░░░░░░░░░░░░   24.00 %
 ```
 
 <!--END_SECTION:waka-->
