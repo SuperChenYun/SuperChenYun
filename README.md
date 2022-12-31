@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 December 2022 - To: 29 December 2022
+From: 23 December 2022 - To: 30 December 2022
 
-PHP               7 hrs 23 mins   ███████████▒░░░░░░░░░░░░░   45.31 %
-Vue.js            6 hrs 49 mins   ██████████▒░░░░░░░░░░░░░░   41.87 %
-SQL               1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-Smali             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
-JavaScript        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-Other             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+PHP               6 hrs 42 mins   ██████████▒░░░░░░░░░░░░░░   41.35 %
+Vue.js            6 hrs 34 mins   ██████████░░░░░░░░░░░░░░░   40.50 %
+SQL               1 hr 17 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
+Smali             36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+JavaScript        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Java              13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 ```
 
 <!--END_SECTION:waka-->
