@@ -20,14 +20,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 February 2023 - To: 26 February 2023
+From: 20 February 2023 - To: 27 February 2023
 
-PHP            7 hrs 46 mins   ███████████▓░░░░░░░░░░░░░   46.60 %
-Vue.js         6 hrs 14 mins   █████████▒░░░░░░░░░░░░░░░   37.44 %
-JavaScript     48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
-Log            36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
-.env file      31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Git            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+PHP              9 hrs 55 mins   █████████████░░░░░░░░░░░░   52.63 %
+Vue.js           5 hrs 39 mins   ███████▓░░░░░░░░░░░░░░░░░   30.02 %
+HTML             44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+JavaScript       37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+.env file        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Log              36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
 ```
 
 <!--END_SECTION:waka-->
