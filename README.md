@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2023 - To: 01 April 2023
+From: 26 March 2023 - To: 02 April 2023
 
 CSS            17 hrs 52 mins  ██████████████▒░░░░░░░░░░   56.92 %
 HTML           7 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.01 %
