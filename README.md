@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 ### Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
-From: 25 May 2023 - To: 01 June 2023
+```txt
+From: 26 May 2023 - To: 02 June 2023
 
-PHP              11 hrs 9 mins   ███████████▓░░░░░░░░░░░░░   46.51 %
-Vue.js           7 hrs 57 mins   ████████▒░░░░░░░░░░░░░░░░   33.18 %
-SQL              1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Other            1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-.env file        53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 %
+PHP              13 hrs 14 mins  ████████████░░░░░░░░░░░░░   48.08 %
+Vue.js           9 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   35.85 %
+SQL              1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
+Other            1 hr            █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+.env file        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
 ```
 
 <!--END_SECTION:waka-->
