@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2023 - To: 09 June 2023
+From: 03 June 2023 - To: 10 June 2023
 
 PHP            9 hrs 51 mins   ██████████████████▓░░░░░░   74.54 %
 Vue.js         1 hr 37 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
