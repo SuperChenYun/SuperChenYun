@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-PHP    52 mins         ██████████████████████▓░░   91.02 %
-HTML   5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
-Log    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+PHP        4 hrs 12 mins   ██████████████████████▒░░   89.18 %
+MySQL      9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+Other      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+SQL        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+HTML       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
 <!--END_SECTION:waka-->
