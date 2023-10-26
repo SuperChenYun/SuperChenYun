@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 October 2023 - To: 24 October 2023
+From: 18 October 2023 - To: 25 October 2023
 
-PHP              14 hrs 3 mins   ███████████████▓░░░░░░░░░   62.86 %
-Vue.js           5 hrs 35 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.05 %
-SQL              1 hr 11 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-.env file        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 %
+PHP              14 hrs 26 mins  ████████████████▓░░░░░░░░   66.20 %
+Vue.js           5 hrs 1 min     █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+SQL              56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+JSON             18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
+.env file        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
