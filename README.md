@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2024 - To: 13 February 2024
+From: 07 February 2024 - To: 14 February 2024
 
-PHP      2 hrs 53 mins   ███████████████████████▓░   95.29 %
-Vue.js   7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
