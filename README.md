@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2024 - To: 23 February 2024
+From: 17 February 2024 - To: 24 February 2024
 
-PHP          6 hrs 31 mins   ████████████████▒░░░░░░░░   64.90 %
-Vue.js       2 hrs 56 mins   ███████▒░░░░░░░░░░░░░░░░░   29.24 %
-JavaScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-SQL          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+PHP          6 hrs 23 mins   █████████████████▓░░░░░░░   70.57 %
+Vue.js       2 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+JavaScript   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+SQL          10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
 Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
