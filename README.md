@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 April 2024 - To: 12 April 2024
+From: 06 April 2024 - To: 13 April 2024
 
 PHP          6 hrs 41 mins   ██████████████████▒░░░░░░   73.61 %
 Vue.js       2 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   23.42 %
