@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2024 - To: 07 June 2024
+From: 01 June 2024 - To: 08 June 2024
 
 PHP              10 hrs 31 mins  █████████████████████░░░░   83.54 %
 JSON             1 hr 6 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
