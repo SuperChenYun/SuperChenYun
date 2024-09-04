@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 August 2024 - To: 02 September 2024
+From: 27 August 2024 - To: 03 September 2024
 
-PHP          5 hrs 26 mins   ███████████████████▓░░░░░   79.10 %
-Vue.js       52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.83 %
-.env file    32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+PHP          4 hrs 29 mins   ████████████████████▒░░░░   81.62 %
+Vue.js       40 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
+.env file    19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.01 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
