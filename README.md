@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 12 December 2024
+From: 06 December 2024 - To: 13 December 2024
 
-PHP              16 hrs 28 mins  █████████████████▓░░░░░░░   70.20 %
-Vue.js           5 hrs 59 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.53 %
-.env file        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
-SQL              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+PHP              17 hrs 59 mins  ██████████████████▓░░░░░░   74.95 %
+Vue.js           4 hrs 56 mins   █████░░░░░░░░░░░░░░░░░░░░   20.60 %
+.env file        36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+SQL              6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
