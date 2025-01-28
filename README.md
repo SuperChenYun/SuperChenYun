@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 January 2025 - To: 26 January 2025
+From: 20 January 2025 - To: 27 January 2025
 
-PHP          13 hrs 15 mins  ██████████████░░░░░░░░░░░   56.22 %
-Vue.js       9 hrs 30 mins   ██████████░░░░░░░░░░░░░░░   40.29 %
-SQL          30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-JavaScript   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
-.env file    8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+PHP          12 hrs 23 mins  ██████████████▓░░░░░░░░░░   58.85 %
+Vue.js       7 hrs 51 mins   █████████▒░░░░░░░░░░░░░░░   37.33 %
+SQL          31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
+.env file    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+JavaScript   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
 
 <!--END_SECTION:waka-->
