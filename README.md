@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2025 - To: 08 February 2025
+From: 02 February 2025 - To: 09 February 2025
 
 PHP          6 hrs 58 mins   ███████████████████░░░░░░   75.66 %
 Vue.js       2 hrs 9 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.33 %
