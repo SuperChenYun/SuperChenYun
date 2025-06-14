@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2025 - To: 12 June 2025
+From: 06 June 2025 - To: 13 June 2025
 
-PHP          14 hrs 3 mins   ███████████████░░░░░░░░░░   60.05 %
-Vue.js       4 hrs 41 mins   █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-Python       3 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-Markdown     38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-.env file    30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+PHP                 14 hrs 26 mins  ██████████████░░░░░░░░░░░   56.65 %
+Python              3 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.56 %
+Vue.js              3 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.35 %
+JavaScript          2 hrs 2 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 %
+Markdown            36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
