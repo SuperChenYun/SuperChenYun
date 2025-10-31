@@ -10,13 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 October 2025 - To: 29 October 2025
+From: 23 October 2025 - To: 30 October 2025
 
-PHP          17 hrs 33 mins  ██████████████████████▒░░   89.27 %
-Vue.js       2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.28 %
-JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-TypeScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-SQL          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP          15 hrs 59 mins  ██████████████████████░░░   87.85 %
+Vue.js       1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+SQL          25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+JavaScript   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
