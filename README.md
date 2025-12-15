@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 December 2025 - To: 13 December 2025
+From: 07 December 2025 - To: 14 December 2025
 
 PHP               8 hrs 10 mins   ███████████▓░░░░░░░░░░░░░   46.10 %
 Java              3 hrs 30 mins   █████░░░░░░░░░░░░░░░░░░░░   19.78 %
-HTML              3 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.11 %
+HTML              3 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.10 %
 SQL               1 hr 44 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
 XML               32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
 ```
