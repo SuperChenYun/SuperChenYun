@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-PHP    5 hrs 20 mins   ████████████████████▒░░░░   81.38 %
-HTML   1 hr 4 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.46 %
-SQL    8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+PHP    5 hrs 50 mins   █████████████████▓░░░░░░░   70.00 %
+HTML   2 hrs 21 mins   ███████░░░░░░░░░░░░░░░░░░   28.30 %
+SQL    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Text   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
