@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 December 2025 - To: 31 December 2025
+From: 25 December 2025 - To: 01 January 2026
 
 PHP        6 hrs 32 mins   █████████████████░░░░░░░░   68.58 %
 HTML       2 hrs 45 mins   ███████▒░░░░░░░░░░░░░░░░░   28.89 %
