@@ -10,13 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2025 - To: 02 January 2026
+From: 27 December 2025 - To: 03 January 2026
 
-PHP        5 hrs 48 mins   ████████████████▓░░░░░░░░   67.03 %
-HTML       2 hrs 45 mins   ████████░░░░░░░░░░░░░░░░░   31.77 %
-Vue.js     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+PHP        2 hrs 10 mins   █████████████░░░░░░░░░░░░   51.77 %
+HTML       1 hr 55 mins    ███████████▒░░░░░░░░░░░░░   45.84 %
+Vue.js     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
