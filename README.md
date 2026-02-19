@@ -10,12 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 February 2026 - To: 17 February 2026
+From: 11 February 2026 - To: 18 February 2026
 
-PHP        12 hrs 54 mins  ████████████████████░░░░░   79.50 %
-HTML       2 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.80 %
-SQL        53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 %
-textmate   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+PHP        9 hrs 28 mins         ███████████████████▓░░░░░   78.61 %
+HTML       1 hr 41 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+SQL        51 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+textmate   1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
