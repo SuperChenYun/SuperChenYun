@@ -10,10 +10,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 March 2026 - To: 09 March 2026
+From: 03 March 2026 - To: 10 March 2026
 
-PHP   6 hrs 26 mins         ███████████████████████░░   92.33 %
-SQL   32 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.67 %
+PHP        7 hrs 40 mins         ██████████████████░░░░░░░   71.91 %
+SQL        2 hrs 4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.46 %
+Markdown   54 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+JSON       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
 ```
 
 <!--END_SECTION:waka-->
