@@ -10,9 +10,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2026 - To: 15 June 2026
+From: 09 June 2026 - To: 16 June 2026
 
-No activity tracked
+XML          1 hr 17 mins          ████████████████▓░░░░░░░░   66.76 %
+Other        28 mins               ██████░░░░░░░░░░░░░░░░░░░   24.50 %
+JSON         6 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.60 %
+Java         3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+YAML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
